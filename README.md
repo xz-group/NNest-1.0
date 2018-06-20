@@ -13,6 +13,7 @@ The XXX_model.h defines the different blocks including Global buffer, local buff
 
 Define the certain NN model and constraint in user_input.txt in certain format:
 1st row: NN models, currently only support Alexnet and VGG
+
 2nd row: performance constraint (ms)
 3rd row: area constraint (um)
 4th row: energy constraint (uJ)
