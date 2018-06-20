@@ -11,7 +11,7 @@ You can change the Makefile accordingly to compile the different main file.
 
 The XXX_model.h defines the different blocks including Global buffer, local buffer, BBus, and MACs units.
 
-Define the certain NN model and constraint in user_input.txt in certain format:
+Define the certain NN model and constraint in user_input.txt in certain format: </br>
 1st row: NN models, currently only support Alexnet and VGG </br>
 2nd row: performance constraint (ms) </br>
 3rd row: area constraint (um) </br>
