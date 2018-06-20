@@ -5,7 +5,6 @@ NNest: Early-Stage Design Space Exploration Tool for Neural Network Inference Ac
 NNest explores NN accelerator's design space in two kind of dataflow: IWR and PR.</br>
 main_IWR.cpp: the main function for IWR dataflow</br>
 main_PR.cpp: the main function for PR dataflow</br>
-main.cc: the main function containing both IWR and PR, and labeled by dataflow parameters</br>
 
 You can change the Makefile accordingly to compile the different main file.
 
